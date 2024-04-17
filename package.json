@@ -1,12 +1,12 @@
 {
-    "name": "filepond-plugin-image-overlay",
+    "name": "@goosesquare/filepond-plugin-image-overlay",
     "version": "1.0.9",
     "description": "Image overlay Plugin for FilePond",
     "license": "MIT",
     "author": {
         "name": "Niels Boogaard"
     },
-    "repository": "nielsboogaard/filepond-plugin-image-overlay",
+    "repository": "zbcjackson/filepond-plugin-image-overlay",
     "main": "dist/filepond-plugin-image-overlay.js",
     "browser": "dist/filepond-plugin-image-overlay.js",
     "module": "dist/filepond-plugin-image-overlay.esm.js",
@@ -38,7 +38,7 @@
         "cssnano": "^5.0.6",
         "css-what": ">=5.0.1",
         "dot-prop": ">=6.0.1",
-        "node-sass": "^7.0.0",
+        "node-sass": "^9.0.0",
         "postcss": "^8.3.5",
         "postcss-cli": "8.3.1",
         "prettier": "^2.3.1",
